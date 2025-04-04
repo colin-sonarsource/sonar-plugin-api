@@ -41,6 +41,8 @@ The following tables indicate which API versions plugins can find at runtime:
 | SonarQube Server       | Plugin API                |
 |------------------------|---------------------------|
 | Server 2025.2.0.105476 | 11.3.0.2824               |
+| Community Build 25.3.0.104237 | 11.2.0.2797       |
+| Community Build 25.2.0.102705 | 11.1.0.2693       |
 | Server 2025.1.0.102418 | 11.1.0.2693               |
 | Community Build 25.1.0.102122 | 11.1.0.2693        |
 | 10.8.0.100206          | 10.14.0.2599              |
